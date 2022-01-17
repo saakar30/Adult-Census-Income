@@ -5,7 +5,6 @@
 * [Acknowledgements](#Acknowledgements)
 * [About_Data](#About_Data)
 * [Motivation](#Motivation)
-* [Workflow](#Workflow)
 * [Technologies Used](#Technologies_Used)
 * [Architecture](#Architecture)
 * [API Interface](#API_Interface)
@@ -80,7 +79,8 @@ Our web API will be a single page. The user input and the model’s prediction w
 <p align="center">
   <img src="https://github.com/xoikia/IncomePrediction/blob/main/readme%20images/interface.png" alt="API interface">
 </p>
-'## Environment_Variables
+
+## Environment_Variables
 
 To run this project, you will need to add the following environment variables to your .env file :
 
