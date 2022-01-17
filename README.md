@@ -71,13 +71,13 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
 
 ## Architecture
 <p align="center">
-  <img src="https://github.com/saakar30/Adult-Census-Income/blob/master/readme%20images/architecture.jpeg">
+  <img src="https://github.com/saakar30/Adult-Census-Income/blob/master/readme%20images/architecture.jpeg" alt="architecture">
 </p>
 
 ## API_Interface
 Our web API will be a single page. The user input and the model’s prediction will be displayed in the same page
 <p align="center">
-  <img src="https://github.com/xoikia/IncomePrediction/blob/main/readme%20images/interface.png" alt="API interface">
+  <img src="https://github.com/saakar30/Adult-Census-Income/blob/master/readme%20images/interface.png" alt="API interface">
 </p>
 
 ## Environment_Variables
