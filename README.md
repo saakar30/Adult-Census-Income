@@ -57,7 +57,7 @@ Here first, we are performing Data preprocessing step, in which feature engineer
 ## Approach 
 The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building, Model Testing and Deployment. Trying out different machine learning algorithms that’s best fit for the above case.
 
-## Technologies Used
+## Technologies_Used
 ###### Python: high-level computer programming language used to develop the project 
 ###### Py-Charm:	an integrated development IDE used in computer programming, for the Python language
 ###### Pandas: Open source data analysis and manipulation tool, for the Python programming language.
@@ -74,7 +74,7 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
   <img src="https://github.com/xoikia/IncomePrediction/blob/main/readme%20images/architecture.jpeg" alt="architecture">
 </p>
 
-## API Interface
+## API_Interface
 Our web API will be a single page. The user input and the model’s prediction will be displayed in the same page
 <p align="center">
   <img src="https://github.com/xoikia/IncomePrediction/blob/main/readme%20images/interface.png" alt="API interface">
