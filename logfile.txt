@@ -1,0 +1,126 @@
+02-12-2021 22:48:38,INFO,Requested method : POST
+02-12-2021 22:48:38,INFO,form submitted, there is an active request and the method is POST
+02-12-2021 22:48:38,INFO,Values retrieved from the form
+02-12-2021 22:48:38,INFO,Threading Called !
+02-12-2021 22:48:38,INFO,Threading Created !
+02-12-2021 22:48:38,INFO,Threading Started !
+02-12-2021 22:48:38,INFO,Preprocessing files successfully loaded
+02-12-2021 22:48:38,INFO,Data was PreProcessed successfully
+02-12-2021 22:48:48,INFO,Successfully connected to Database
+02-12-2021 22:48:49,INFO,The Table already exists
+02-12-2021 22:48:49,INFO,User Data inserted 
+02-12-2021 22:48:49,INFO,Data 
+02-12-2021 22:48:49,INFO,Threading join !
+02-12-2021 22:48:49,INFO,XGB model successfully loaded!
+02-12-2021 22:48:49,INFO,Model prediction completed
+02-12-2021 22:48:50,INFO,Result added successfully
+02-12-2021 22:48:50,INFO,Uploaded to Database
+16-01-2022 15:10:13,INFO,Requested method : POST
+16-01-2022 15:10:13,INFO,form submitted, there is an active request and the method is POST
+16-01-2022 15:10:14,INFO,Values retrieved from the form
+16-01-2022 15:10:14,INFO,Threading Called !
+16-01-2022 15:10:14,INFO,Threading Created !
+16-01-2022 15:10:14,INFO,Threading Started !
+16-01-2022 15:10:19,INFO,Preprocessing files successfully loaded
+16-01-2022 15:10:20,INFO,Data was PreProcessed successfully
+16-01-2022 15:10:23,ERROR,While connecting to the Database
+16-01-2022 15:10:23,INFO,The Table already exists
+16-01-2022 15:10:23,ERROR,While adding the data to database
+16-01-2022 15:10:23,INFO,Data 
+16-01-2022 15:10:23,INFO,Threading join !
+16-01-2022 15:10:36,INFO,XGB model successfully loaded!
+16-01-2022 15:10:37,INFO,Model prediction completed
+16-01-2022 15:10:37,ERROR,While adding the result to database
+16-01-2022 15:10:37,INFO,Uploaded to Database
+17-01-2022 01:23:39,INFO,Requested method : POST
+17-01-2022 01:23:39,INFO,form submitted, there is an active request and the method is POST
+17-01-2022 01:23:39,INFO,Values retrieved from the form
+17-01-2022 01:23:39,INFO,Threading Called !
+17-01-2022 01:23:39,INFO,Threading Created !
+17-01-2022 01:23:39,INFO,Threading Started !
+17-01-2022 01:23:40,INFO,Threading join !
+17-01-2022 01:23:40,ERROR,While executing getResult()
+17-01-2022 01:27:20,INFO,Requested method : POST
+17-01-2022 01:27:20,INFO,form submitted, there is an active request and the method is POST
+17-01-2022 01:27:20,INFO,Values retrieved from the form
+17-01-2022 01:27:20,INFO,Threading Called !
+17-01-2022 01:27:20,INFO,Threading Created !
+17-01-2022 01:27:21,INFO,Threading Started !
+17-01-2022 01:27:23,INFO,Preprocessing files successfully loaded
+17-01-2022 01:27:24,INFO,Data was PreProcessed successfully
+17-01-2022 01:27:30,INFO,Successfully connected to Database
+17-01-2022 01:27:31,INFO,The Table already exists
+17-01-2022 01:27:31,INFO,User Data inserted 
+17-01-2022 01:27:31,INFO,Data 
+17-01-2022 01:27:31,INFO,Threading join !
+17-01-2022 01:27:35,INFO,XGB model successfully loaded!
+17-01-2022 01:27:35,INFO,Model prediction completed
+17-01-2022 01:27:35,INFO,Result added successfully
+17-01-2022 01:27:35,INFO,Uploaded to Database
+17-01-2022 01:42:52,INFO,Requested method : POST
+17-01-2022 01:42:52,INFO,form submitted, there is an active request and the method is POST
+17-01-2022 01:42:53,INFO,Values retrieved from the form
+17-01-2022 01:42:53,INFO,Threading Called !
+17-01-2022 01:42:53,INFO,Threading Created !
+17-01-2022 01:42:53,INFO,Threading Started !
+17-01-2022 01:42:54,INFO,Threading join !
+17-01-2022 01:42:54,ERROR,While executing getResult()
+17-01-2022 02:06:32,INFO,Requested method : POST
+17-01-2022 02:06:32,INFO,form submitted, there is an active request and the method is POST
+17-01-2022 02:06:32,INFO,Values retrieved from the form
+17-01-2022 02:06:32,INFO,Threading Called !
+17-01-2022 02:06:32,INFO,Threading Created !
+17-01-2022 02:06:33,INFO,Threading Started !
+17-01-2022 02:06:33,INFO,Threading join !
+17-01-2022 02:06:33,ERROR,While executing getResult()
+17-01-2022 02:07:20,INFO,Requested method : POST
+17-01-2022 02:07:20,INFO,form submitted, there is an active request and the method is POST
+17-01-2022 02:07:20,INFO,Values retrieved from the form
+17-01-2022 02:07:20,INFO,Threading Called !
+17-01-2022 02:07:20,INFO,Threading Created !
+17-01-2022 02:07:20,INFO,Threading Started !
+17-01-2022 02:07:22,INFO,Preprocessing files successfully loaded
+17-01-2022 02:07:23,INFO,Data was PreProcessed successfully
+17-01-2022 02:07:29,INFO,Successfully connected to Database
+17-01-2022 02:07:29,INFO,The Table already exists
+17-01-2022 02:07:29,INFO,User Data inserted 
+17-01-2022 02:07:29,INFO,Data 
+17-01-2022 02:07:29,INFO,Threading join !
+17-01-2022 02:07:33,INFO,XGB model successfully loaded!
+17-01-2022 02:07:33,INFO,Model prediction completed
+17-01-2022 02:07:33,INFO,Result added successfully
+17-01-2022 02:07:33,INFO,Uploaded to Database
+17-01-2022 15:56:52,INFO,Requested method : POST
+17-01-2022 15:56:52,INFO,form submitted, there is an active request and the method is POST
+17-01-2022 15:56:52,INFO,Values retrieved from the form
+17-01-2022 15:56:52,INFO,Threading Called !
+17-01-2022 15:56:52,INFO,Threading Created !
+17-01-2022 15:56:53,INFO,Threading Started !
+17-01-2022 15:56:56,INFO,Preprocessing files successfully loaded
+17-01-2022 15:56:57,INFO,Data was PreProcessed successfully
+17-01-2022 15:57:03,INFO,Successfully connected to Database
+17-01-2022 15:57:04,INFO,The Table already exists
+17-01-2022 15:57:04,INFO,User Data inserted 
+17-01-2022 15:57:04,INFO,Data 
+17-01-2022 15:57:04,INFO,Threading join !
+17-01-2022 15:57:10,INFO,XGB model successfully loaded!
+17-01-2022 15:57:10,INFO,Model prediction completed
+17-01-2022 15:57:10,INFO,Result added successfully
+17-01-2022 15:57:10,INFO,Uploaded to Database
+17-01-2022 15:57:44,INFO,Requested method : POST
+17-01-2022 15:57:44,INFO,form submitted, there is an active request and the method is POST
+17-01-2022 15:57:44,INFO,Values retrieved from the form
+17-01-2022 15:57:44,INFO,Threading Called !
+17-01-2022 15:57:44,INFO,Threading Created !
+17-01-2022 15:57:44,INFO,Threading Started !
+17-01-2022 15:57:44,INFO,Preprocessing files successfully loaded
+17-01-2022 15:57:44,INFO,Data was PreProcessed successfully
+17-01-2022 15:57:51,INFO,Successfully connected to Database
+17-01-2022 15:57:51,INFO,The Table already exists
+17-01-2022 15:57:51,INFO,User Data inserted 
+17-01-2022 15:57:51,INFO,Data 
+17-01-2022 15:57:51,INFO,Threading join !
+17-01-2022 15:57:51,INFO,XGB model successfully loaded!
+17-01-2022 15:57:51,INFO,Model prediction completed
+17-01-2022 15:57:51,INFO,Result added successfully
+17-01-2022 15:57:51,INFO,Uploaded to Database

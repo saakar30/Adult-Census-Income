@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+      <title>Income Prediction</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="static/index.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+        <div class = "content">
+            <nav class="navbar navbar-inverse navbar navbar-dark bg-dark">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">ANNUAL INCOME PREDICTION</a>
+    </div>
+    <ul class="nav navbar-nav navbar navbar-dark bg-dark">
+      <li class="active"><a href="">GitHub</a></li>
+      <li class=" active dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Authors <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="https://www.linkedin.com/in/saakar-sengar/">Saakar Sengar </a></li>
+          <li><a href="https://www.linkedin.com/in/shreyanshj01/">Shreyansh Jain</a></li>
+        </ul>
+      </li>
+      <li class="active"><a href="#">Documentation</a></li>
+
+    </ul>
+  </div>
+</nav>
+            <form method="post">
+                <div class = "user-details">
+                    <div class = "input-box">
+                        <span class="details">{{ form.Name.label }}</span>
+                        <p>{{ form.Name() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Age.label }}</span>
+                        <p>{{ form.Age() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Work_Class.label }}</span>
+                        <p>{{ form.Work_Class() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Education.label }}</span>
+                        <p>{{ form.Education }}</p>
+                    </div>
+                    
+                    <div class = "input-box">
+                        <span class="details">{{ form.Marital_Status.label }}</span>
+                        <p>{{ form.Marital_Status() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Occupation.label }}</span>
+                        <p>{{ form.Occupation() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Race.label }}</span>
+                        <p>{{ form.Race() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Sex.label }}</span>
+                        <p>{{ form.Sex() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Capital_Gain.label }}</span>
+                        <p>{{form.Capital_Gain()}}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Capital_Loss.label }} </span>
+                        <p>{{ form.Capital_Loss() }} </p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Hours.label }}</span>
+                        <p>{{ form.Hours() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Country.label }}</span>
+                        <p>{{ form.Country() }}</p>
+                    </div>
+                </div>
+                <div class="input-box">
+                    <span class="details">OUTPUT</span>
+                    <p>Your yearly annual income is : {{ value }}</p>
+                </div>
+                <div class="button">
+                    <p>{{ form.submit() }}</p>
+                </div>
+                <p>Created by Saakar Sengar © 2021</p></p>
+            </form>
+        </div>
+</body>
+</html>
