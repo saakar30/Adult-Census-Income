@@ -71,7 +71,7 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
 
 ## Architecture
 <p align="center">
-  <img src="https://github.com/xoikia/IncomePrediction/blob/main/readme%20images/architecture.jpeg" alt="architecture">
+  <img src="https://github.com/saakar30/Adult-Census-Income/blob/master/readme%20images/architecture.jpeg">
 </p>
 
 ## API_Interface
